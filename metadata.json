@@ -1,0 +1,23 @@
+{
+  "id_": "ADDD2F830",
+  "segments_metadata": {
+    "I8695B58F": {
+      "type": "Root_Segment",
+      "relation": "Source",
+      "lang": "Tibetan",
+      "base": "94b5",
+      "layer": "Root_Segment-5bb.json"
+    },
+    "I9FC41210": {
+      "type": "Commentary",
+      "relation": "Target",
+      "lang": "Tibetan",
+      "base": "34b3",
+      "layer": "Commentary-df1.json"
+    }
+  },
+  "source_metadata": {
+    "type": "Root_Commentary",
+    "source": "https://github.com/Esukhia/chojuk-alignement/tree/master/D3876-final"
+  }
+}
